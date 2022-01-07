@@ -1,0 +1,6 @@
+C:\Users\sobec\source\repos\BlackJackClasses\bin\Debug\BlackJackClasses.dll
+C:\Users\sobec\source\repos\BlackJackClasses\bin\Debug\BlackJackClasses.pdb
+C:\Users\sobec\source\repos\BlackJackClasses\obj\Debug\BlackJackClasses.csproj.AssemblyReference.cache
+C:\Users\sobec\source\repos\BlackJackClasses\obj\Debug\BlackJackClasses.csproj.CoreCompileInputs.cache
+C:\Users\sobec\source\repos\BlackJackClasses\obj\Debug\BlackJackClasses.dll
+C:\Users\sobec\source\repos\BlackJackClasses\obj\Debug\BlackJackClasses.pdb
